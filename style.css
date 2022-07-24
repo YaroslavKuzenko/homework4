@@ -1,0 +1,33 @@
+.baza:link{
+    color: green;
+    text-decoration: none;
+}
+
+.baza:visited{
+    color: darkred;
+}
+
+.baza:hover{
+    font-size: 24px;
+}
+
+.baza{
+    padding: 15px;
+}
+
+.noneUnder{
+    text-decoration: none;
+}
+
+.hoverUnder{
+    text-decoration: none;
+}
+
+.hoverUnder:hover{
+    text-decoration: underline;
+}
+
+.iconLink{
+    height: 48px;
+    text-align: center;
+}
