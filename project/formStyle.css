@@ -86,6 +86,9 @@ input{
     padding: 15px 0;
 }
 
+.socialBtn:hover{
+    background-color: #8a8a8a;
+}
 
 .greenBtn{
     background-color: #0f9c0f;
@@ -128,5 +131,9 @@ input{
     width: 25px;
     height: 25px;
     padding-right: 10px;
+}
+
+#socialIcon:hover{
+    text-decoration: none;
 }
 
